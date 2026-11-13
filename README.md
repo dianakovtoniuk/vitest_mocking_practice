@@ -1,6 +1,6 @@
 # Mocks Frontend
 
-A TypeScript application for creating and submitting posts.
+A TypeScript project focused on testing application functionality, including form handling, validation, HTTP requests, error handling, and utility functions.
 
 ## Features
 - Form data extraction
